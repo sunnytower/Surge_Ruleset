@@ -3,7 +3,6 @@ DOMAIN,emby.flowercloud.yt
 DOMAIN-SUFFIX,emby.wtf
 
 # Netflix
-USER-AGENT,Argo*
 DOMAIN-SUFFIX,netflix.com
 DOMAIN-SUFFIX,netflix.net
 DOMAIN-SUFFIX,nflxext.com
@@ -14,3 +13,5 @@ DOMAIN-SUFFIX,nflxvideo.net
 DOMAIN-KEYWORD,netflixdnstest
 DOMAIN-KEYWORD,apiproxy-device-prod-nlb-
 DOMAIN-KEYWORD,dualstack.apiproxy-
+USER-AGENT,Argo*
+PROCESS-NAME,com.netflix.mediaclient
