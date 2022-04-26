@@ -1,3 +1,4 @@
 payload:
   - DOMAIN,emby.flowercloud.yt
   - DOMAIN-SUFFIX,emby.wtf
+  - IP-CIDR,203.198.87.6/32,no-resolve
